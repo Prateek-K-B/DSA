@@ -12,4 +12,4 @@ let isPalindrome = function(x){
     return rev === xCopy;
 }
 
-console.log(isPalindrome(121));
+console.log(isPalindrome(12321));
