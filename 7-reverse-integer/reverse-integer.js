@@ -1,7 +1,4 @@
-/**
- * @param {number} x
- * @return {number}
- */
+
 let reverse = function(x) {
     let xCopy = x;
     x = Math.abs(x);
